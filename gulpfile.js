@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 	autoprefixer = require('gulp-autoprefixer'),
 	cleanCSS = require('gulp-clean-css'), 
 	concat = require('gulp-concat'),
-	uglify = require('gulp-uglify'),
+	uglify = require('gulp-uglify');
 
 var paths = {
 	scripts: {
